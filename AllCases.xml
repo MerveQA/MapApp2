@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="7" >
+    <test verbose="2" preserve-order="true"
+          name="Regression">
+        <groups>
+            <run>
+                <include name="Regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.TC_001_V1">
+            </class>
+            <class name="tests.TC_002_V2">
+            </class>
+            <class name="tests.TC_003_V2AdBlock">
+            </class>
+            <class name="tests.TC_004_V3">
+            </class>
+            <class name="tests.TC_005_V3AdBlock">
+            </class>
+            <class name="tests.TC_006_V4">
+            </class>
+            <class name="tests.TC_007_V4AdBlock">
+            </class>
+        </classes>
+    </test>
+</suite>

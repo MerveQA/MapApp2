@@ -1,0 +1,1947 @@
+2024-05-08 15:09:27 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 15:09:28 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 15:09:28 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-08 15:09:28 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-08 15:09:30 INFO  - MapApp version= v2
+2024-05-08 15:09:34 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-08 15:09:36 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 15:09:36 INFO  - Header= Women
+2024-05-08 15:09:39 INFO  - First Ad= Rambly Ad
+2024-05-08 15:09:45 INFO  - Second Ad= Rambly Ad
+2024-05-08 15:09:48 INFO  - Third Ad= Rambly Ad
+2024-05-08 15:09:49 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7dcc91fd: 1 ms
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:22:49 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:22:49 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-08 23:22:49 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-05-08 23:22:53 INFO  - MapApp version= v2
+2024-05-08 23:22:56 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-08 23:22:58 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:22:58 INFO  - Header= Food
+2024-05-08 23:23:02 INFO  - First Ad= Rambly Ad
+2024-05-08 23:23:07 INFO  - Second Ad= Rambly Ad
+2024-05-08 23:23:11 INFO  - Third Ad= Rambly Ad
+2024-05-08 23:23:11 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@452c8a40: 0 ms
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:24:41 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:24:41 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-08 23:24:42 INFO  - MapApp version= v1
+2024-05-08 23:24:44 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-08 23:24:45 INFO  - Header= Children Learning Center
+2024-05-08 23:24:48 INFO  - First Ad= Google Ad
+2024-05-08 23:24:53 INFO  - Second Ad= Google Ad
+2024-05-08 23:24:57 INFO  - Third Ad= Google Ad
+2024-05-08 23:24:57 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-05-08 23:24:58 INFO  - MapApp version= v1
+2024-05-08 23:25:00 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-08 23:25:01 INFO  - Header= Children Learning Center
+2024-05-08 23:25:04 INFO  - First Ad= Google Ad
+2024-05-08 23:25:10 INFO  - Second Ad= Google Ad
+2024-05-08 23:25:13 INFO  - Third Ad= Google Ad
+2024-05-08 23:25:13 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56da52a7: 0 ms
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:02 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_006_V4.xml
+
+2024-05-08 23:26:02 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-05-08 23:26:04 INFO  - MapApp version= v4
+2024-05-08 23:26:07 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:26:09 INFO  - Header= Food
+2024-05-08 23:26:12 INFO  - First Ad= Rambly Ad
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:26:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:26:25 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_004_V3.xml
+
+2024-05-08 23:26:25 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-08 23:26:27 INFO  - MapApp version= v3
+2024-05-08 23:26:29 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-08 23:26:31 INFO  - Header= Food
+2024-05-08 23:26:34 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2b50150: 0 ms
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-08 23:27:29 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-08 23:27:29 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/AllCases.xml
+
+2024-05-08 23:27:29 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-08 23:27:31 INFO  - MapApp version= v1
+2024-05-08 23:27:32 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-08 23:27:33 INFO  - Header= Children Learning Center
+2024-05-08 23:27:36 INFO  - First Ad= Google Ad
+2024-05-08 23:27:42 INFO  - Second Ad= Google Ad
+2024-05-08 23:27:45 INFO  - Third Ad= Google Ad
+2024-05-08 23:27:47 INFO  - MapApp version= v2
+2024-05-08 23:27:48 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-08 23:27:50 INFO  - Header= Food
+2024-05-08 23:27:54 INFO  - First Ad= Google Ad
+2024-05-08 23:27:59 INFO  - Second Ad= Google Ad
+2024-05-08 23:28:03 INFO  - Third Ad= Google Ad
+2024-05-08 23:28:05 INFO  - MapApp version= v2
+2024-05-08 23:28:09 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-08 23:28:11 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:28:11 INFO  - Header= Food
+2024-05-08 23:28:14 INFO  - First Ad= Rambly Ad
+2024-05-08 23:28:20 INFO  - Second Ad= Rambly Ad
+2024-05-08 23:28:23 INFO  - Third Ad= Rambly Ad
+2024-05-08 23:28:25 INFO  - MapApp version= v3
+2024-05-08 23:28:26 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-08 23:28:28 INFO  - Header= Food
+2024-05-08 23:28:32 INFO  - First Ad= Google Ad
+2024-05-08 23:28:37 INFO  - Second Ad= Google Ad
+2024-05-08 23:28:41 INFO  - Third Ad= Google Ad
+2024-05-08 23:28:43 INFO  - MapApp version= v3
+2024-05-08 23:28:46 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-08 23:28:48 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:28:48 INFO  - Header= Food
+2024-05-08 23:28:52 INFO  - First Ad= Rambly Ad
+2024-05-08 23:28:57 INFO  - Second Ad= Rambly Ad
+2024-05-08 23:29:01 INFO  - Third Ad= Rambly Ad
+2024-05-08 23:29:02 INFO  - MapApp version= v4
+2024-05-08 23:29:04 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:29:06 INFO  - Header= Food
+2024-05-08 23:29:10 INFO  - First Ad= Rambly Ad
+2024-05-08 23:29:15 INFO  - Second Ad= Rambly Ad
+2024-05-08 23:29:16 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1654a892: 0 ms
+2024-05-08 23:29:19 INFO  - Third Ad= Rambly Ad
+2024-05-08 23:29:21 INFO  - MapApp version= v3
+2024-05-08 23:29:24 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-08 23:29:26 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-08 23:29:26 INFO  - Header= Food
+2024-05-08 23:29:29 INFO  - First Ad= Rambly Ad
+2024-05-08 23:29:35 INFO  - Second Ad= Rambly Ad
+2024-05-08 23:29:38 INFO  - Third Ad= Rambly Ad
+2024-05-08 23:29:39 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3af7d855: 0 ms
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 00:39:33 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 00:39:33 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/AllCases.xml
+
+2024-05-09 00:39:33 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-05-09 00:39:35 INFO  - MapApp version= v1
+2024-05-09 00:39:37 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:39:38 INFO  - Header= Children Learning Center
+2024-05-09 00:39:41 INFO  - First Ad= Google Ad
+2024-05-09 00:39:47 INFO  - Second Ad= Google Ad
+2024-05-09 00:39:50 INFO  - Third Ad= Google Ad
+2024-05-09 00:39:51 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:39:51 INFO  - Header= Education Institutes
+2024-05-09 00:39:54 INFO  - First Ad= Google Ad
+2024-05-09 00:40:00 INFO  - Second Ad= Google Ad
+2024-05-09 00:40:04 INFO  - Third Ad= Google Ad
+2024-05-09 00:40:04 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:40:04 INFO  - Header= Scholarships
+2024-05-09 00:40:07 INFO  - First Ad= Google Ad
+2024-05-09 00:40:13 INFO  - Second Ad= Google Ad
+2024-05-09 00:40:17 INFO  - Third Ad= Google Ad
+2024-05-09 00:40:17 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:40:17 INFO  - Header= Education Institutes
+2024-05-09 00:40:21 INFO  - First Ad= Google Ad
+2024-05-09 00:40:26 INFO  - Second Ad= Google Ad
+2024-05-09 00:40:30 INFO  - Third Ad= Google Ad
+2024-05-09 00:40:30 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:40:30 INFO  - Header= Scholarships
+2024-05-09 00:40:34 INFO  - First Ad= Google Ad
+2024-05-09 00:40:39 INFO  - Second Ad= Google Ad
+2024-05-09 00:40:43 INFO  - Third Ad= Google Ad
+2024-05-09 00:40:43 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6f78248edbc1679b1529953b5eb82892&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:40:43 INFO  - Header= Education Institutes
+2024-05-09 00:40:47 INFO  - First Ad= Google Ad
+2024-05-09 00:40:52 INFO  - Second Ad= Google Ad
+2024-05-09 00:40:56 INFO  - Third Ad= Google Ad
+2024-05-09 00:40:56 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=402007e3f7b8ec5ebd5b63b9c122f08b&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:40:57 INFO  - Header= Scholarships
+2024-05-09 00:41:00 INFO  - First Ad= Google Ad
+2024-05-09 00:41:06 INFO  - Second Ad= Google Ad
+2024-05-09 00:41:09 INFO  - Third Ad= Google Ad
+2024-05-09 00:41:10 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=25c791c646dac62810b42ba2d48ee43b&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:41:10 INFO  - Header= Education Institutes
+2024-05-09 00:41:13 INFO  - First Ad= Google Ad
+2024-05-09 00:41:19 INFO  - Second Ad= Google Ad
+2024-05-09 00:41:23 INFO  - Third Ad= Google Ad
+2024-05-09 00:41:23 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:41:23 INFO  - Header= Children Learning Center
+2024-05-09 00:41:27 INFO  - First Ad= Google Ad
+2024-05-09 00:41:32 INFO  - Second Ad= Google Ad
+2024-05-09 00:41:36 INFO  - Third Ad= Google Ad
+2024-05-09 00:41:36 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=148267f02b92f9975af0fc024734f6c3&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:41:36 INFO  - Header= Children Learning Center
+2024-05-09 00:41:40 INFO  - First Ad= Google Ad
+2024-05-09 00:41:45 INFO  - Second Ad= Google Ad
+2024-05-09 00:41:49 INFO  - Third Ad= Google Ad
+2024-05-09 00:41:49 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=20ddb9b9e25052e93fa3cf76f3251e7b&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:41:50 INFO  - Header= Scholarships
+2024-05-09 00:41:53 INFO  - First Ad= Google Ad
+2024-05-09 00:41:58 INFO  - Second Ad= Google Ad
+2024-05-09 00:42:02 INFO  - Third Ad= Google Ad
+2024-05-09 00:42:03 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=2f9535cc6f24883dd01e21bc6ab06c60&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:42:03 INFO  - Header= Scholarships
+2024-05-09 00:42:06 INFO  - First Ad= Google Ad
+2024-05-09 00:42:11 INFO  - Second Ad= Google Ad
+2024-05-09 00:42:15 INFO  - Third Ad= Google Ad
+2024-05-09 00:42:16 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=21c7b413cd2311e778f80ba803e69033&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:42:16 INFO  - Header= Scholarships
+2024-05-09 00:42:19 INFO  - First Ad= Google Ad
+2024-05-09 00:42:25 INFO  - Second Ad= Google Ad
+2024-05-09 00:42:29 INFO  - Third Ad= Google Ad
+2024-05-09 00:42:29 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=065acebc220d73e4390e5125ac1999ab&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:42:29 INFO  - Header= Scholarships
+2024-05-09 00:42:32 INFO  - First Ad= Google Ad
+2024-05-09 00:42:38 INFO  - Second Ad= Google Ad
+2024-05-09 00:42:42 INFO  - Third Ad= Google Ad
+2024-05-09 00:42:42 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=63ad1d46f96e6a1f9babcd3c9bdf5f71&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:42:42 INFO  - Header= Education Institutes
+2024-05-09 00:42:46 INFO  - First Ad= Google Ad
+2024-05-09 00:42:51 INFO  - Second Ad= Google Ad
+2024-05-09 00:42:55 INFO  - Third Ad= Google Ad
+2024-05-09 00:42:55 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=56a107954cabe3006c7e900b3fa9f8aa&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:42:55 INFO  - Header= Education Institutes
+2024-05-09 00:42:59 INFO  - First Ad= Google Ad
+2024-05-09 00:43:04 INFO  - Second Ad= Google Ad
+2024-05-09 00:43:08 INFO  - Third Ad= Google Ad
+2024-05-09 00:43:08 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=90c21a4bc8484ea2d653b2013b9539d0&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:43:09 INFO  - Header= Scholarships
+2024-05-09 00:43:12 INFO  - First Ad= Google Ad
+2024-05-09 00:43:17 INFO  - Second Ad= Google Ad
+2024-05-09 00:43:21 INFO  - Third Ad= Google Ad
+2024-05-09 00:43:22 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0d954b9f08f5d725ba7c6266752c3268&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:43:22 INFO  - Header= Education Institutes
+2024-05-09 00:43:25 INFO  - First Ad= Google Ad
+2024-05-09 00:43:31 INFO  - Second Ad= Google Ad
+2024-05-09 00:43:34 INFO  - Third Ad= Google Ad
+2024-05-09 00:43:35 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=771230f5d1ee38c4d5158e0fff77a0f7&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:43:35 INFO  - Header= Education Institutes
+2024-05-09 00:43:38 INFO  - First Ad= Google Ad
+2024-05-09 00:43:44 INFO  - Second Ad= Google Ad
+2024-05-09 00:43:47 INFO  - Third Ad= Google Ad
+2024-05-09 00:43:48 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=f8dab5afe7e54c6d70d5dcc227a491d5&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:43:48 INFO  - Header= Education Institutes
+2024-05-09 00:43:51 INFO  - First Ad= Google Ad
+2024-05-09 00:43:57 INFO  - Second Ad= Google Ad
+2024-05-09 00:44:00 INFO  - Third Ad= Google Ad
+2024-05-09 00:44:01 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=01505c8b4f5ce365d2278862422944f2&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:44:01 INFO  - Header= Children Learning Center
+2024-05-09 00:44:04 INFO  - First Ad= Google Ad
+2024-05-09 00:44:10 INFO  - Second Ad= Google Ad
+2024-05-09 00:44:13 INFO  - Third Ad= Google Ad
+2024-05-09 00:44:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=5899f7883bcd57864755d427287108f6&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:44:14 INFO  - Header= Education Institutes
+2024-05-09 00:44:18 INFO  - First Ad= Google Ad
+2024-05-09 00:44:23 INFO  - Second Ad= Google Ad
+2024-05-09 00:44:27 INFO  - Third Ad= Google Ad
+2024-05-09 00:44:27 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=e780096c474b193bb662886871d92716&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:44:27 INFO  - Header= Education Institutes
+2024-05-09 00:44:31 INFO  - First Ad= Google Ad
+2024-05-09 00:44:36 INFO  - Second Ad= Google Ad
+2024-05-09 00:44:40 INFO  - Third Ad= Google Ad
+2024-05-09 00:44:40 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=dd7982a6f43ee8155b27d3f07908f5c9&cat=500&md=w&slct=1&v=v1
+2024-05-09 00:44:41 INFO  - Header= Vocational School
+2024-05-09 00:44:44 INFO  - MapApp version= v2
+2024-05-09 00:44:45 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:44:47 INFO  - Header= Food
+2024-05-09 00:44:50 INFO  - MapApp version= v2
+2024-05-09 00:44:52 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:44:54 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:44:54 INFO  - Header= Food
+2024-05-09 00:45:27 INFO  - First Ad= Google Ad
+2024-05-09 00:46:03 INFO  - Second Ad= Google Ad
+2024-05-09 00:46:36 INFO  - Third Ad= Google Ad
+2024-05-09 00:46:37 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:46:39 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:46:39 INFO  - Header= General Help
+2024-05-09 00:47:12 INFO  - First Ad= Google Ad
+2024-05-09 00:47:48 INFO  - Second Ad= Google Ad
+2024-05-09 00:48:22 INFO  - Third Ad= Google Ad
+2024-05-09 00:48:23 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:48:25 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:48:25 INFO  - Header= General Help
+2024-05-09 00:48:58 INFO  - First Ad= Google Ad
+2024-05-09 00:49:34 INFO  - Second Ad= Google Ad
+2024-05-09 00:50:07 INFO  - Third Ad= Google Ad
+2024-05-09 00:50:08 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:50:10 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v2
+2024-05-09 00:50:10 INFO  - Header= Food
+2024-05-09 00:50:43 INFO  - MapApp version= v3
+2024-05-09 00:50:44 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:50:46 INFO  - Header= Food
+2024-05-09 00:50:49 INFO  - First Ad= Google Ad
+2024-05-09 00:50:55 INFO  - Second Ad= Google Ad
+2024-05-09 00:50:59 INFO  - Third Ad= Google Ad
+2024-05-09 00:50:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:51:01 INFO  - Header= General Help
+2024-05-09 00:51:05 INFO  - First Ad= Google Ad
+2024-05-09 00:51:40 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:51:44 INFO  - Third Ad= Google Ad
+2024-05-09 00:51:45 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:51:47 INFO  - Header= General Help
+2024-05-09 00:51:50 INFO  - MapApp version= v3
+2024-05-09 00:51:52 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:51:54 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:51:54 INFO  - Header= Food
+2024-05-09 00:52:27 INFO  - First Ad= Google Ad
+2024-05-09 00:53:03 INFO  - Second Ad= Google Ad
+2024-05-09 00:53:36 INFO  - Third Ad= Google Ad
+2024-05-09 00:53:37 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:53:39 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:53:39 INFO  - Header= General Help
+2024-05-09 00:54:12 INFO  - First Ad= Google Ad
+2024-05-09 00:54:18 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:54:52 INFO  - Third Ad= Google Ad
+2024-05-09 00:54:52 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:54:54 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:54:54 INFO  - Header= General Help
+2024-05-09 00:55:28 INFO  - First Ad= Google Ad
+2024-05-09 00:55:33 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:56:07 INFO  - Third Ad= Google Ad
+2024-05-09 00:56:07 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:56:09 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:56:09 INFO  - Header= Food
+2024-05-09 00:56:43 INFO  - First Ad= Google Ad
+2024-05-09 00:56:48 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:57:22 INFO  - Third Ad= Google Ad
+2024-05-09 00:57:23 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:57:25 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v3
+2024-05-09 00:57:25 INFO  - Header= General Help
+2024-05-09 00:57:58 INFO  - MapApp version= v4
+2024-05-09 00:57:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:58:01 INFO  - Header= Food
+2024-05-09 00:58:05 INFO  - First Ad= Rambly Ad
+2024-05-09 00:58:10 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:58:14 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:58:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:58:16 INFO  - Header= General Help
+2024-05-09 00:58:20 INFO  - First Ad= Rambly Ad
+2024-05-09 00:58:25 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:58:29 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:58:29 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:58:31 INFO  - Header= General Help
+2024-05-09 00:58:35 INFO  - First Ad= Rambly Ad
+2024-05-09 00:58:40 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:58:44 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:58:44 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:58:46 INFO  - Header= Food
+2024-05-09 00:58:50 INFO  - First Ad= Rambly Ad
+2024-05-09 00:58:55 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:58:59 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:58:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:59:01 INFO  - Header= General Help
+2024-05-09 00:59:05 INFO  - First Ad= Rambly Ad
+2024-05-09 00:59:10 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:59:14 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:59:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6f78248edbc1679b1529953b5eb82892&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:59:17 INFO  - Header= General Help
+2024-05-09 00:59:20 INFO  - First Ad= Rambly Ad
+2024-05-09 00:59:25 INFO  - Second Ad= Rambly Ad
+2024-05-09 00:59:29 INFO  - Third Ad= Rambly Ad
+2024-05-09 00:59:30 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=402007e3f7b8ec5ebd5b63b9c122f08b&cat=500&md=w&slct=1&v=v4
+2024-05-09 00:59:32 INFO  - Header= General Help
+2024-05-09 01:02:34 INFO  - MapApp version= v3
+2024-05-09 01:05:34 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@a6fc1bc: 0 ms
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:37:11 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:37:11 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:37:11 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 03:37:16 INFO  - MapApp version= v2
+2024-05-09 03:37:19 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:37:21 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:37:21 INFO  - Header= Food
+2024-05-09 03:37:25 INFO  - First Ad= Rambly Ad
+2024-05-09 03:37:30 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:37:34 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:37:35 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:37:37 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:37:37 INFO  - Header= General Help
+2024-05-09 03:38:20 INFO  - First Ad= Rambly Ad
+2024-05-09 03:38:24 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@203dd56b: 0 ms
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:39:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:39:31 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:39:31 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:40:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:40:25 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:40:25 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 03:40:29 INFO  - MapApp version= v2
+
+2024-05-09 03:40:32 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:40:34 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:40:34 INFO  - Header= Food
+2024-05-09 03:40:37 INFO  - First Ad= Rambly Ad
+2024-05-09 03:40:43 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:40:46 INFO  - Third Ad= Rambly Ad
+
+2024-05-09 03:40:47 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:40:49 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:40:49 INFO  - Header= General Help
+2024-05-09 03:40:53 INFO  - First Ad= Rambly Ad
+2024-05-09 03:40:58 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:41:02 INFO  - Third Ad= Rambly Ad
+
+2024-05-09 03:41:03 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:41:05 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:41:05 INFO  - Header= General Help
+2024-05-09 03:41:08 INFO  - First Ad= Rambly Ad
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:42:46 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:42:46 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:42:46 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-05-09 03:42:49 INFO  - MapApp version= v2
+
+2024-05-09 03:42:53 INFO  - 
+URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:42:55 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:42:55 INFO  - Header= Food
+2024-05-09 03:42:58 INFO  - First Ad= Rambly Ad
+2024-05-09 03:44:03 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:44:07 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:44:07 INFO  - 
+URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:44:09 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:44:09 INFO  - Header= General Help
+2024-05-09 03:44:15 INFO  - First Ad= Rambly Ad
+2024-05-09 03:44:16 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58f174d9: 0 ms
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:44:22 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:44:22 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:44:22 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 03:44:25 INFO  - MapApp version= v2
+
+2024-05-09 03:44:28 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:44:30 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:44:30 INFO  - Header= Food
+2024-05-09 03:44:34 INFO  - First Ad= Rambly Ad
+2024-05-09 03:45:46 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:45:50 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:45:51 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:45:53 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:45:53 INFO  - Header= General Help
+2024-05-09 03:46:10 INFO  - First Ad= Rambly Ad
+2024-05-09 03:46:11 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5942ee04: 0 ms
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:46:43 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:46:43 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:46:43 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-05-09 03:46:47 INFO  - MapApp version= v2
+
+2024-05-09 03:46:51 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:46:53 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:46:53 INFO  - Header= Food
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:47:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:47:26 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:47:26 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-05-09 03:47:30 INFO  - MapApp version= v2
+2024-05-09 03:47:33 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:47:35 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:47:35 INFO  - Header= Food
+2024-05-09 03:47:39 INFO  - First Ad= Rambly Ad
+2024-05-09 03:47:44 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:47:48 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:47:48 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:47:50 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:47:50 INFO  - Header= General Help
+2024-05-09 03:47:54 INFO  - First Ad= Rambly Ad
+2024-05-09 03:47:59 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:48:03 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:48:04 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:48:06 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:48:06 INFO  - Header= General Help
+2024-05-09 03:48:09 INFO  - First Ad= Rambly Ad
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:48:58 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:48:58 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:48:58 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-05-09 03:49:02 INFO  - MapApp version= v2
+2024-05-09 03:49:05 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:49:07 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:49:07 INFO  - Header= Food
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:50:02 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:50:02 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:50:02 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-05-09 03:50:06 INFO  - MapApp version= v2
+2024-05-09 03:50:09 INFO  - userHash = 4d099387ab32737f62f1bd7ece178232
+2024-05-09 03:50:09 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:50:11 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:50:11 INFO  - Header= Food
+2024-05-09 03:50:15 INFO  - First Ad= Rambly Ad
+2024-05-09 03:50:20 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:50:24 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:50:25 INFO  - userHash = ff3af992bc0ee81660abce44f4751d8e
+2024-05-09 03:50:25 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:50:27 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:50:27 INFO  - Header= General Help
+2024-05-09 03:50:31 INFO  - First Ad= Rambly Ad
+2024-05-09 03:50:36 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:50:40 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:50:41 INFO  - userHash = 6526843767c0df67efd981b19946c857
+2024-05-09 03:50:41 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:50:43 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:50:43 INFO  - Header= General Help
+2024-05-09 03:50:46 INFO  - First Ad= Rambly Ad
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 03:51:59 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 03:51:59 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_003_V2AdBlock.xml
+
+2024-05-09 03:51:59 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-05-09 03:52:04 INFO  - MapApp version= v2
+
+2024-05-09 03:52:06 INFO  - userHash = 4d099387ab32737f62f1bd7ece178232
+2024-05-09 03:52:06 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:52:09 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:52:09 INFO  - Header= Food
+2024-05-09 03:52:12 INFO  - First Ad= Rambly Ad
+2024-05-09 03:52:18 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:52:21 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:52:22 INFO  - userHash = ff3af992bc0ee81660abce44f4751d8e
+2024-05-09 03:52:22 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:52:24 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:52:24 INFO  - Header= General Help
+2024-05-09 03:52:27 INFO  - First Ad= Rambly Ad
+2024-05-09 03:52:32 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:52:36 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:52:36 INFO  - userHash = 6526843767c0df67efd981b19946c857
+2024-05-09 03:52:36 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:52:38 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6526843767c0df67efd981b19946c857&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:52:38 INFO  - Header= General Help
+2024-05-09 03:52:42 INFO  - First Ad= Rambly Ad
+2024-05-09 03:52:47 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:52:51 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:52:52 INFO  - userHash = 411b95aea44fff454d897a647a49937c
+2024-05-09 03:52:52 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:52:54 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=411b95aea44fff454d897a647a49937c&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:52:54 INFO  - Header= Food
+2024-05-09 03:52:57 INFO  - First Ad= Rambly Ad
+2024-05-09 03:53:03 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:53:06 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:53:07 INFO  - userHash = 34e3d7e9eec22c2d7b0ff9bbc120d117
+2024-05-09 03:53:07 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:53:09 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=34e3d7e9eec22c2d7b0ff9bbc120d117&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:53:09 INFO  - Header= General Help
+2024-05-09 03:53:12 INFO  - First Ad= Rambly Ad
+2024-05-09 03:53:18 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:53:22 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:53:23 INFO  - userHash = 6f78248edbc1679b1529953b5eb82892
+2024-05-09 03:53:23 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=6f78248edbc1679b1529953b5eb82892&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:53:25 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=6f78248edbc1679b1529953b5eb82892&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:53:25 INFO  - Header= General Help
+2024-05-09 03:53:28 INFO  - First Ad= Rambly Ad
+2024-05-09 03:53:34 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:53:37 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:53:38 INFO  - userHash = 402007e3f7b8ec5ebd5b63b9c122f08b
+2024-05-09 03:53:38 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=402007e3f7b8ec5ebd5b63b9c122f08b&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:53:40 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=402007e3f7b8ec5ebd5b63b9c122f08b&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:53:40 INFO  - Header= General Help
+2024-05-09 03:53:43 INFO  - First Ad= Rambly Ad
+2024-05-09 03:53:49 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:53:52 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:53:54 INFO  - userHash = 25c791c646dac62810b42ba2d48ee43b
+2024-05-09 03:53:54 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=25c791c646dac62810b42ba2d48ee43b&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:53:56 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=25c791c646dac62810b42ba2d48ee43b&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:53:56 INFO  - Header= Housing
+2024-05-09 03:53:59 INFO  - First Ad= Rambly Ad
+2024-05-09 03:54:05 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:54:08 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:54:09 INFO  - userHash = 4d099387ab32737f62f1bd7ece178232
+2024-05-09 03:54:09 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:54:11 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:54:11 INFO  - Header= Food
+2024-05-09 03:54:14 INFO  - First Ad= Rambly Ad
+2024-05-09 03:54:20 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:54:23 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:54:24 INFO  - userHash = 148267f02b92f9975af0fc024734f6c3
+2024-05-09 03:54:24 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=148267f02b92f9975af0fc024734f6c3&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:54:26 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=148267f02b92f9975af0fc024734f6c3&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:54:26 INFO  - Header= General Help
+2024-05-09 03:54:30 INFO  - First Ad= Rambly Ad
+2024-05-09 03:54:35 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:54:39 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:54:39 INFO  - userHash = 20ddb9b9e25052e93fa3cf76f3251e7b
+2024-05-09 03:54:39 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=20ddb9b9e25052e93fa3cf76f3251e7b&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:54:41 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=20ddb9b9e25052e93fa3cf76f3251e7b&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:54:41 INFO  - Header= General Help
+2024-05-09 03:54:45 INFO  - First Ad= Rambly Ad
+2024-05-09 03:54:50 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:54:54 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:54:54 INFO  - userHash = 2f9535cc6f24883dd01e21bc6ab06c60
+2024-05-09 03:54:54 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=2f9535cc6f24883dd01e21bc6ab06c60&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:54:56 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=2f9535cc6f24883dd01e21bc6ab06c60&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:54:56 INFO  - Header= Medical Assistance
+2024-05-09 03:54:59 INFO  - First Ad= Rambly Ad
+2024-05-09 03:55:05 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:55:09 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:55:10 INFO  - userHash = 21c7b413cd2311e778f80ba803e69033
+2024-05-09 03:55:10 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=21c7b413cd2311e778f80ba803e69033&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:55:12 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=21c7b413cd2311e778f80ba803e69033&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:55:12 INFO  - Header= Seniors
+2024-05-09 03:55:15 INFO  - First Ad= Rambly Ad
+2024-05-09 03:55:21 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:55:24 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:55:25 INFO  - userHash = 065acebc220d73e4390e5125ac1999ab
+2024-05-09 03:55:25 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=065acebc220d73e4390e5125ac1999ab&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:55:27 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=065acebc220d73e4390e5125ac1999ab&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:55:27 INFO  - Header= General Help
+2024-05-09 03:55:30 INFO  - First Ad= Rambly Ad
+2024-05-09 03:55:36 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:55:39 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:55:40 INFO  - userHash = 63ad1d46f96e6a1f9babcd3c9bdf5f71
+2024-05-09 03:55:40 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=63ad1d46f96e6a1f9babcd3c9bdf5f71&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:55:42 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=63ad1d46f96e6a1f9babcd3c9bdf5f71&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:55:42 INFO  - Header= General Help
+2024-05-09 03:55:45 INFO  - First Ad= Rambly Ad
+2024-05-09 03:55:51 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:55:54 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:55:55 INFO  - userHash = 56a107954cabe3006c7e900b3fa9f8aa
+2024-05-09 03:55:55 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=56a107954cabe3006c7e900b3fa9f8aa&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:55:57 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=56a107954cabe3006c7e900b3fa9f8aa&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:55:57 INFO  - Header= General Help
+2024-05-09 03:56:01 INFO  - First Ad= Rambly Ad
+2024-05-09 03:56:06 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:56:10 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:56:11 INFO  - userHash = 90c21a4bc8484ea2d653b2013b9539d0
+2024-05-09 03:56:11 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=90c21a4bc8484ea2d653b2013b9539d0&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:56:13 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=90c21a4bc8484ea2d653b2013b9539d0&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:56:13 INFO  - Header= Food
+2024-05-09 03:56:16 INFO  - First Ad= Rambly Ad
+2024-05-09 03:56:22 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:56:25 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:56:26 INFO  - userHash = 0d954b9f08f5d725ba7c6266752c3268
+2024-05-09 03:56:26 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0d954b9f08f5d725ba7c6266752c3268&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:56:28 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=0d954b9f08f5d725ba7c6266752c3268&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:56:28 INFO  - Header= General Help
+2024-05-09 03:56:31 INFO  - First Ad= Rambly Ad
+2024-05-09 03:56:37 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:56:40 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:56:42 INFO  - userHash = 771230f5d1ee38c4d5158e0fff77a0f7
+2024-05-09 03:56:42 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=771230f5d1ee38c4d5158e0fff77a0f7&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:56:44 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=771230f5d1ee38c4d5158e0fff77a0f7&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:56:44 INFO  - Header= General Help
+2024-05-09 03:56:47 INFO  - First Ad= Rambly Ad
+2024-05-09 03:56:52 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:56:56 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:56:57 INFO  - userHash = f8dab5afe7e54c6d70d5dcc227a491d5
+2024-05-09 03:56:57 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=f8dab5afe7e54c6d70d5dcc227a491d5&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:56:59 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=f8dab5afe7e54c6d70d5dcc227a491d5&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:56:59 INFO  - Header= General Help
+2024-05-09 03:57:02 INFO  - First Ad= Rambly Ad
+2024-05-09 03:57:08 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:57:12 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:57:13 INFO  - userHash = 01505c8b4f5ce365d2278862422944f2
+2024-05-09 03:57:13 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=01505c8b4f5ce365d2278862422944f2&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:57:15 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=01505c8b4f5ce365d2278862422944f2&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:57:15 INFO  - Header= General Help
+2024-05-09 03:57:18 INFO  - First Ad= Rambly Ad
+2024-05-09 03:57:24 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:57:27 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:57:28 INFO  - userHash = 5899f7883bcd57864755d427287108f6
+2024-05-09 03:57:28 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=5899f7883bcd57864755d427287108f6&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:57:30 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=5899f7883bcd57864755d427287108f6&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:57:30 INFO  - Header= Food
+2024-05-09 03:57:33 INFO  - First Ad= Rambly Ad
+2024-05-09 03:57:39 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:57:43 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:57:43 INFO  - userHash = e780096c474b193bb662886871d92716
+2024-05-09 03:57:43 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=e780096c474b193bb662886871d92716&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:57:45 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=e780096c474b193bb662886871d92716&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:57:45 INFO  - Header= General Help
+2024-05-09 03:57:48 INFO  - First Ad= Rambly Ad
+2024-05-09 03:57:54 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:57:58 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:57:59 INFO  - userHash = dd7982a6f43ee8155b27d3f07908f5c9
+2024-05-09 03:57:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=dd7982a6f43ee8155b27d3f07908f5c9&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:58:01 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=dd7982a6f43ee8155b27d3f07908f5c9&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:58:01 INFO  - Header= Food
+2024-05-09 03:58:04 INFO  - First Ad= Rambly Ad
+2024-05-09 03:58:10 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:58:13 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:58:14 INFO  - userHash = 99da74632a0edf64cb0b812b5d3637f5
+2024-05-09 03:58:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=99da74632a0edf64cb0b812b5d3637f5&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:58:16 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=99da74632a0edf64cb0b812b5d3637f5&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:58:16 INFO  - Header= Vocational School
+2024-05-09 03:58:19 INFO  - First Ad= Rambly Ad
+2024-05-09 03:58:25 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:58:28 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:58:29 INFO  - userHash = 61bf72860e137484b34a47191663430d
+2024-05-09 03:58:29 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=61bf72860e137484b34a47191663430d&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:58:31 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=61bf72860e137484b34a47191663430d&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:58:31 INFO  - Header= General Help
+2024-05-09 03:58:35 INFO  - First Ad= Rambly Ad
+2024-05-09 03:58:40 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:58:44 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:58:44 INFO  - userHash = 4a913d84ab9a759fb17001351f8c6d1b
+2024-05-09 03:58:44 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4a913d84ab9a759fb17001351f8c6d1b&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:58:46 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=4a913d84ab9a759fb17001351f8c6d1b&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:58:46 INFO  - Header= General Help
+2024-05-09 03:58:50 INFO  - First Ad= Rambly Ad
+2024-05-09 03:58:55 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:58:59 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:58:59 INFO  - userHash = 602f9d3615c0e80946ea0d10cc2302f1
+2024-05-09 03:58:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=602f9d3615c0e80946ea0d10cc2302f1&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:59:01 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=602f9d3615c0e80946ea0d10cc2302f1&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:59:01 INFO  - Header= Medical Assistance
+2024-05-09 03:59:05 INFO  - First Ad= Rambly Ad
+2024-05-09 03:59:10 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:59:14 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:59:14 INFO  - userHash = b6c864cfdff684199ad77e263fe48814
+2024-05-09 03:59:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=b6c864cfdff684199ad77e263fe48814&cat=500&md=w&slct=1&v=v2
+2024-05-09 03:59:16 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=b6c864cfdff684199ad77e263fe48814&cat=500&md=w&slct=1&v=v4
+2024-05-09 03:59:16 INFO  - Header= General Help
+2024-05-09 03:59:20 INFO  - First Ad= Rambly Ad
+2024-05-09 03:59:25 INFO  - Second Ad= Rambly Ad
+2024-05-09 03:59:37 INFO  - Third Ad= Rambly Ad
+2024-05-09 03:59:37 INFO  - userHash = 87ee0cd7a7230e47cae356a90a100c3a
+2024-05-09 03:59:37 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=87ee0cd7a7230e47cae356a90a100c3a&cat=500&md=w&slct=1&v=v2
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:06:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:06:15 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-09 04:06:15 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-05-09 04:06:16 INFO  - MapApp version= v1
+
+2024-05-09 04:06:17 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5aa360ea: 0 ms
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:07:09 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:07:09 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-09 04:07:09 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 04:07:11 INFO  - MapApp version= v1
+
+2024-05-09 04:07:14 INFO  - userHash = 4d099387ab32737f62f1bd7ece178232
+2024-05-09 04:07:14 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:07:16 INFO  - Header= Children Learning Center
+2024-05-09 04:07:50 INFO  - First Ad= Google Ad
+2024-05-09 04:08:25 INFO  - Second Ad= Google Ad
+2024-05-09 04:08:59 INFO  - Third Ad= Google Ad
+2024-05-09 04:09:00 INFO  - userHash = ff3af992bc0ee81660abce44f4751d8e
+2024-05-09 04:09:00 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=ff3af992bc0ee81660abce44f4751d8e&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:09:02 INFO  - Header= Education Institutes
+2024-05-09 04:09:35 INFO  - First Ad= Google Ad
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:18:34 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:18:34 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/AllCases.xml
+
+2024-05-09 04:18:34 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 04:18:36 INFO  - MapApp version= v1
+
+2024-05-09 04:18:39 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:18:39 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:18:41 INFO  - Header= Children Learning Center
+2024-05-09 04:19:14 INFO  - First Ad= Google Ad
+2024-05-09 04:19:50 INFO  - Second Ad= Google Ad
+2024-05-09 04:20:23 INFO  - Third Ad= Google Ad
+2024-05-09 04:20:24 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:20:24 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:20:26 INFO  - Header= Scholarships
+2024-05-09 04:20:59 INFO  - First Ad= Google Ad
+2024-05-09 04:21:35 INFO  - Second Ad= Google Ad
+2024-05-09 04:22:09 INFO  - Third Ad= Google Ad
+2024-05-09 04:22:10 INFO  - MapApp version= v2
+
+2024-05-09 04:22:13 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:22:13 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v2
+2024-05-09 04:22:16 INFO  - Header= Food
+2024-05-09 04:22:49 INFO  - First Ad= Google Ad
+2024-05-09 04:23:25 INFO  - Second Ad= Google Ad
+2024-05-09 04:23:58 INFO  - Third Ad= Google Ad
+2024-05-09 04:23:59 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:23:59 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v2
+2024-05-09 04:24:01 INFO  - Header= General Help
+2024-05-09 04:24:34 INFO  - First Ad= Google Ad
+2024-05-09 04:25:10 INFO  - Second Ad= Google Ad
+2024-05-09 04:25:44 INFO  - Third Ad= Google Ad
+2024-05-09 04:25:47 INFO  - MapApp version= v2
+
+2024-05-09 04:25:51 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:25:51 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v2
+2024-05-09 04:25:53 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:25:53 INFO  - Header= Food
+2024-05-09 04:25:57 INFO  - First Ad= Rambly Ad
+2024-05-09 04:26:02 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:26:06 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:26:06 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:26:06 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v2
+2024-05-09 04:26:08 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:26:08 INFO  - Header= General Help
+2024-05-09 04:26:12 INFO  - First Ad= Rambly Ad
+2024-05-09 04:26:17 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:26:21 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:26:23 INFO  - MapApp version= v3
+2024-05-09 04:26:25 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:26:25 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:26:27 INFO  - Header= Food
+2024-05-09 04:27:01 INFO  - First Ad= Google Ad
+2024-05-09 04:27:37 INFO  - Second Ad= Google Ad
+2024-05-09 04:28:10 INFO  - Third Ad= Google Ad
+2024-05-09 04:28:11 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:28:11 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:28:13 INFO  - Header= General Help
+2024-05-09 04:28:47 INFO  - MapApp version= v3
+2024-05-09 04:28:50 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:28:50 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:28:52 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:28:52 INFO  - Header= Food
+2024-05-09 04:29:25 INFO  - First Ad= Google Ad
+2024-05-09 04:30:01 INFO  - Second Ad= Google Ad
+2024-05-09 04:30:34 INFO  - Third Ad= Google Ad
+2024-05-09 04:30:35 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:30:35 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:30:37 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:30:37 INFO  - Header= General Help
+2024-05-09 04:31:10 INFO  - First Ad= Google Ad
+2024-05-09 04:31:46 INFO  - Second Ad= Google Ad
+2024-05-09 04:32:20 INFO  - Third Ad= Google Ad
+2024-05-09 04:32:21 INFO  - MapApp version= v4
+2024-05-09 04:32:25 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:32:25 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:32:27 INFO  - Header= Food
+2024-05-09 04:32:30 INFO  - First Ad= Rambly Ad
+2024-05-09 04:32:36 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:32:39 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:32:40 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:32:40 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:32:42 INFO  - Header= General Help
+2024-05-09 04:32:45 INFO  - First Ad= Rambly Ad
+2024-05-09 04:32:51 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:32:54 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:32:58 INFO  - MapApp version= v3
+2024-05-09 04:33:00 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:33:00 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:33:02 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:33:02 INFO  - Header= Food
+2024-05-09 04:33:06 INFO  - First Ad= Rambly Ad
+2024-05-09 04:33:11 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:33:15 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:33:16 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:33:16 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v3
+2024-05-09 04:33:18 INFO  - After Ad Block URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:33:18 INFO  - Header= General Help
+2024-05-09 04:33:21 INFO  - First Ad= Rambly Ad
+2024-05-09 04:33:27 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:33:30 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:33:31 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f79edee: 0 ms
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:36:38 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:36:38 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-09 04:36:38 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 04:36:40 INFO  - MapApp version= v1
+
+2024-05-09 04:36:43 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:36:43 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:36:45 INFO  - Header= Children Learning Center
+2024-05-09 04:37:18 INFO  - First Ad= Google Ad
+2024-05-09 04:37:54 INFO  - Second Ad= Google Ad
+2024-05-09 04:38:27 INFO  - Third Ad= Google Ad
+2024-05-09 04:38:28 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:38:28 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:38:30 INFO  - Header= Scholarships
+2024-05-09 04:39:03 INFO  - First Ad= Google Ad
+2024-05-09 04:39:39 INFO  - Second Ad= Google Ad
+2024-05-09 04:40:13 INFO  - Third Ad= Google Ad
+2024-05-09 04:40:13 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@47b2e9e1: 0 ms
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:40:31 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:40:31 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_006_V4.xml
+
+2024-05-09 04:40:31 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 04:40:33 INFO  - MapApp version= v4
+2024-05-09 04:40:37 INFO  - userHash = 7f8d046b4e3a9eac02325f8f54ff4368
+2024-05-09 04:40:37 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9eac02325f8f54ff4368&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:40:39 INFO  - Header= Food
+2024-05-09 04:40:42 INFO  - First Ad= Rambly Ad
+2024-05-09 04:40:48 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:40:51 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:40:52 INFO  - userHash = 0611d6f1f7770cf225642ee3aeaee9b4
+2024-05-09 04:40:52 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=0611d6f1f7770cf225642ee3aeaee9b4&cat=500&md=w&slct=1&v=v4
+2024-05-09 04:40:54 INFO  - Header= General Help
+2024-05-09 04:40:57 INFO  - First Ad= Rambly Ad
+2024-05-09 04:41:03 INFO  - Second Ad= Rambly Ad
+2024-05-09 04:41:07 INFO  - Third Ad= Rambly Ad
+2024-05-09 04:41:07 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6569dded: 0 ms
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:41:50 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:41:50 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-09 04:41:50 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-05-09 04:41:52 INFO  - MapApp version= v1
+
+2024-05-09 04:41:55 INFO  - userHash = 7f8d046b4e3a9ea25f8f54ff4368
+2024-05-09 04:41:55 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f8d046b4e3a9ea25f8f54ff4368&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:41:57 INFO  - Header= Education Institutes
+2024-05-09 04:42:31 INFO  - First Ad= Google Ad
+2024-05-09 04:42:42 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d0332e1: 0 ms
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-09 04:43:15 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-09 04:43:15 INFO  - [TestNG] Running:
+  /Users/faruk/Desktop/MapApp2/TC_001_V1.xml
+
+2024-05-09 04:43:15 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-05-09 04:43:17 INFO  - MapApp version= v1
+
+2024-05-09 04:43:20 INFO  - userHash = 7f4ff4368
+2024-05-09 04:43:20 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=7f4ff4368&cat=500&md=w&slct=1&v=v1
+2024-05-09 04:43:22 INFO  - Header= Scholarships
+2024-05-09 04:43:41 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@37ff4054: 0 ms
