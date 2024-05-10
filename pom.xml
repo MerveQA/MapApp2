@@ -76,7 +76,18 @@
             <artifactId>javafaker</artifactId>
             <version>1.0.2</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
+        </dependency>
+
+
+
+
     </dependencies>
+
 
 
     <build>
@@ -94,11 +105,11 @@
                 <configuration>
 
                     <parallel>true</parallel>
-                    <threadCount>2</threadCount>
+                    <threadCount>1</threadCount>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
 
                         <suiteXmlFiles>
-                            <suiteXmlFile>demoRegressionParallel.xml</suiteXmlFile>
+                            <suiteXmlFile>TC_001_V1.xml</suiteXmlFile>
                         </suiteXmlFiles>
 
 

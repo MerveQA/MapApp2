@@ -1,10 +1,7 @@
 package tests;
 
-import io.qameta.allure.Description;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
+
 import org.openqa.selenium.Dimension;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
@@ -28,8 +25,6 @@ public class TC_002_V2 {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_002_V2(@Optional("chrome") String browser) {
         driver = Driver.getDriver(browser);
 

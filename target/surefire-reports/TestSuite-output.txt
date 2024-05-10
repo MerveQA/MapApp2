@@ -1,0 +1,61 @@
+2024-05-10 17:21:53 INFO  - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-05-10 17:21:53 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-05-10 17:21:54 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2024-05-10 17:21:54 INFO  - [TestRunner] Starting executor for test Regression with time out:2147483647 milliseconds.
+May 10, 2024 5:21:58 ÖS org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 123; Please update to a Selenium version that supports CDP version 124
+MapApp version= v1
+
+2024-05-10 17:21:58 INFO  - MapApp version= v1
+
+
+
+2024-05-10 17:22:02 INFO  - userHash = 4d099387ab32737f62f1bd7ece178232
+2024-05-10 17:22:02 INFO  - URL= https://app.grantsreach.com/resource?aff_sub2=4d099387ab32737f62f1bd7ece178232&cat=500&md=w&slct=1&v=v1
+2024-05-10 17:22:04 INFO  - Header= Children Learning Center
+2024-05-10 17:22:43 INFO  - First Ad= Google Ad
+2024-05-10 17:23:19 INFO  - Second Ad= Google Ad
+2024-05-10 17:23:53 INFO  - Third Ad= Google Ad
+PASSED: tests.TC_001_V1.TC_001_V1("chrome")
+
+===============================================
+    Regression
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@24c4ddae: 38 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@19e7a160: 80 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@662706a7: 1 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@4816278d: 12 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1b45c0e: 8 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@9573584: 68 ms
+2024-05-10 17:23:54 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3370f42: 0 ms

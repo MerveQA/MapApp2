@@ -1,8 +1,6 @@
 package tests;
 
-import io.qameta.allure.Description;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
+
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -26,8 +24,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_001_V1= "+"User can visit all pages assert ads\n")
     public void TC_001_V1(@Optional("chrome") String browser) {
         driver = Driver.getDriver(browser);
 
@@ -118,8 +114,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_002_V2(@Optional("chrome") String browser) {
         driver = Driver.getDriver(browser);
 
@@ -211,8 +205,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_003_V2AdBlock(@Optional("adblockchrome") String browser) {
         driver = Driver.getDriver(browser);
 
@@ -311,9 +303,7 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
-    public void TC_003_V3(@Optional("chrome") String browser) {
+     public void TC_003_V3(@Optional("chrome") String browser) {
         driver = Driver.getDriver(browser);
 
         HomePage homePage = new HomePage();
@@ -404,8 +394,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_004_V3AdBlock(@Optional("adblockchrome") String browser) {
         driver = Driver.getDriver(browser);
 
@@ -503,8 +491,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_005_V4(@Optional("chrome") String browser) {
         driver = Driver.getDriver(browser);
 
@@ -596,8 +582,6 @@ public class HomeTest {
 
     @Parameters("browser")
     @Test(groups = {"Regression"})// bu en son testler bitince karar verelim
-    @Severity(SeverityLevel.CRITICAL)
-    @Description("TC_002_V2= "+"User can visit all pages assert ads\n")
     public void TC_005_V4AdBlock(@Optional("adblockchrome") String browser) {
         driver = Driver.getDriver(browser);
 
